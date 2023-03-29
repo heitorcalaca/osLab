@@ -82,3 +82,37 @@ body {
   border: 2px solid #f0f0f0;
   display: inline-block;
 }
+
+.form button {
+  background-color: #2ecc71;
+  border: 2px solid #2ecc71;
+  color: #fff;
+  width: 100%;
+  font-size: 20px;
+  padding: 10px;
+}
+
+/* Success and Error*/
+
+.form-control.success input {
+  border-color: #2ecc71;
+}
+
+.form-control.error input {
+  border-color: #e74c3c;
+}
+
+.form-control.success i.fa-check-circle {
+  color: #2ecc71;
+  visibility: visible;
+}
+
+.form-control.error i.fa-exclamation-circle {
+  color: #e74c3c;
+  visibility: visible;
+}
+
+.form-control.error small {
+  visibility: visible;
+  color: #e74c3c;
+}
