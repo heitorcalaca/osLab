@@ -92,6 +92,234 @@ body {
   padding: 10px;
 }
 
+.check-image {
+  position: relative;
+  /* background: url(icons/back.png) no-repeat;*/
+  background-position: center;
+  height: 800px;
+}
+
+.check-image label > input {
+  visibility: hidden;
+}
+.check-image label.dente18 > input + i {
+  position: absolute;
+  margin-top: 329px;
+  margin-left: 104px;
+  display: inline-block;
+  cursor: pointer;
+  width: 70px;
+  height: 70px;
+  background: url(/icons/18.png) no-repeat;
+  transition: 0.5s;
+}
+
+.check-image label.dente17 > input + i {
+  position: absolute;
+  margin-top: 261px;
+  margin-left: 85px;
+  display: inline-block;
+  cursor: pointer;
+  width: 70px;
+  height: 70px;
+  background: url(/icons/17.png) no-repeat;
+  transition: 0.5s;
+  overflow: hidden;
+}
+
+.check-image label.dente16 > input + i {
+  position: absolute;
+  margin-top: 188px;
+  margin-left: 71px;
+  display: inline-block;
+  cursor: pointer;
+  width: 80px;
+  height: 80px;
+  background: url(/icons/16.png) no-repeat;
+  transition: 0.5s;
+}
+
+.check-image label.dente15 > input + i {
+  position: absolute;
+  margin-top: 145px;
+  margin-left: 72px;
+  display: inline-block;
+  cursor: pointer;
+  width: 65px;
+  height: 58px;
+  background: url(/icons/15.png) no-repeat;
+  background-position: center;
+  transition: 0.5s;
+}
+
+.check-image label.dente14 > input + i {
+  position: absolute;
+  margin-top: 90px;
+  margin-left: 61px;
+  display: inline-block;
+  cursor: pointer;
+  width: 70px;
+  height: 70px;
+  background: url(/icons/14.png) no-repeat;
+  transition: 0.5s;
+}
+
+.check-image label.dente13 > input + i {
+  position: absolute;
+  margin-top: 56px;
+  margin-left: 74px;
+  display: inline-block;
+  cursor: pointer;
+  width: 70px;
+  height: 70px;
+  background: url(/icons/13.png) no-repeat;
+  background-position: center;
+  transition: 0.5s;
+}
+
+.check-image label.dente12 > input + i {
+  position: absolute;
+  margin-top: 37px;
+  margin-left: 100px;
+  display: inline-block;
+  cursor: pointer;
+  width: 55px;
+  height: 62px;
+  background: url(/icons/12.png) no-repeat;
+  background-position: center;
+  transition: 0.5s;
+}
+
+.check-image label.dente11 > input + i {
+  position: absolute;
+  margin-top: 24px;
+  margin-left: 130px;
+  display: inline-block;
+  cursor: pointer;
+  width: 70px;
+  height: 70px;
+  background: url(/icons/11.png) no-repeat;
+  background-position: center;
+  transition: 0.5s;
+}
+
+.check-image label.dente21 > input + i {
+  position: absolute;
+  margin-top: 261px;
+  margin-left: 90px;
+  display: inline-block;
+  cursor: pointer;
+  width: 70px;
+  height: 70px;
+  background: url(/icons/21.png) no-repeat;
+  transition: 0.5s;
+}
+
+.check-image label.dente22 > input + i {
+  position: absolute;
+  margin-top: 261px;
+  margin-left: 90px;
+  display: inline-block;
+  cursor: pointer;
+  width: 70px;
+  height: 70px;
+  background: url(/icons/22.png) no-repeat;
+  transition: 0.5s;
+}
+
+.check-image label.dente23 > input + i {
+  position: absolute;
+  margin-top: 261px;
+  margin-left: 90px;
+  display: inline-block;
+  cursor: pointer;
+  width: 70px;
+  height: 70px;
+  background: url(/icons/23.png) no-repeat;
+  transition: 0.5s;
+}
+
+.check-image label.dente24 > input + i {
+  position: absolute;
+  margin-top: 261px;
+  margin-left: 90px;
+  display: inline-block;
+  cursor: pointer;
+  width: 70px;
+  height: 70px;
+  background: url(/icons/24.png) no-repeat;
+  transition: 0.5s;
+}
+
+.check-image label.dente25 > input + i {
+  position: absolute;
+  margin-top: 261px;
+  margin-left: 90px;
+  display: inline-block;
+  cursor: pointer;
+  width: 70px;
+  height: 70px;
+  background: url(/icons/25.png) no-repeat;
+  transition: 0.5s;
+}
+
+.check-image label.dente26 > input + i {
+  position: absolute;
+  margin-top: 261px;
+  margin-left: 90px;
+  display: inline-block;
+  cursor: pointer;
+  width: 70px;
+  height: 70px;
+  background: url(/icons/26.png) no-repeat;
+  transition: 0.5s;
+}
+
+.check-image label.dente27 > input + i {
+  position: absolute;
+  margin-top: 261px;
+  margin-left: 90px;
+  display: inline-block;
+  cursor: pointer;
+  width: 70px;
+  height: 70px;
+  background: url(/icons/27.png) no-repeat;
+  transition: 0.5s;
+}
+
+.check-image label.dente28 > input + i {
+  position: absolute;
+  margin-top: 261px;
+  margin-left: 90px;
+  display: inline-block;
+  cursor: pointer;
+  width: 70px;
+  height: 70px;
+  background: url(/icons/28.png) no-repeat;
+  transition: 0.5s;
+}
+
+.check-image label.dente31 > input + i {
+  position: absolute;
+  margin-top: 261px;
+  margin-left: 90px;
+  display: inline-block;
+  cursor: pointer;
+  width: 70px;
+  height: 70px;
+  background: url(/icons/31.png) no-repeat;
+  transition: 0.5s;
+}
+
+.check-image label > input:checked + i {
+  filter: sepia(60%);
+}
+
+.check-image label > i:hover {
+  transform: scale(1.1);
+  z-index: 1;
+  background-position: center;
+}
 /* Success and Error*/
 
 .form-control.success input {
@@ -115,4 +343,8 @@ body {
 .form-control.error small {
   visibility: visible;
   color: #e74c3c;
+}
+
+.form-check label > input {
+  visibility: hidden;
 }
